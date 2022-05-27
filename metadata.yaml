@@ -1,5 +1,8 @@
 _repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-fifth-series-no-117-vol-III-March-27__68104
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68104-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68104#Chambers-s-Journal-of-Popular-Literature-Science-and-Art-fifth-series-no-117-vol-III-March-27_
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68104'
